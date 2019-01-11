@@ -5,4 +5,4 @@ Create a short news bar that will be displayed at the top of MyBB
 1.0
 
 ## Official Website
-[ServersLab](http://serverslab.net)
+[ServersLab Inc.](http://serverslab.net)
